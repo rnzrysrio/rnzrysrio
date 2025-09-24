@@ -44,7 +44,7 @@ Currently not building anything specific — but always open to new challenges a
 ## 📫 Connect with Me
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](YOUR_LINKEDIN)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renz-rey-sario/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-black?logo=firefox&logoColor=white)](YOUR_PORTFOLIO)  
 [![Email](https://img.shields.io/badge/Email-Here-red?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)  
 
