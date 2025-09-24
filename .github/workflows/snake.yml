@@ -1,31 +1,28 @@
 name: Generate Snake
 
 on:
-  schedule: # Runs every day at midnight
-    - cron: "0 0 * * *"
-  workflow_dispatch: # Allows manual run
-  push: # Runs on pushes to main
-    branches:
-      - main
+  schedule:
+    - cron: "0 0 * * *" # runs every day at midnight
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write   # <-- this fixes the 403 error
     steps:
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Generate Snake animation
+      - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: rnzrysrio
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Push generated files
+      - name: Commit & push
         uses: EndBug/add-and-commit@v9
         with:
-          author_name: github-actions
-          author_email: github-actions@github.com
           message: "Generate contribution snake"
-          add: "dist/*.svg"
+          add: "dist/github-contribution-grid-snake.svg"
+          default_author: github_actions
