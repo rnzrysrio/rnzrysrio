@@ -57,3 +57,14 @@ Currently not building anything specific — but always open to new challenges a
 [![Email](https://img.shields.io/badge/Email-Here-red?logo=gmail&logoColor=white)](mailto:renzreysario312@gmail.com)  
 
 </div>
+
+## Current Github Status
+---
+
+<div align="center">
+
+![GitHub Snake Light](https://raw.githubusercontent.com/rnzrysrio/rnzrysrio/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/rnzrysrio/rnzrysrio/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+
+</div>
+
