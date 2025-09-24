@@ -63,7 +63,8 @@ Currently not building anything specific — but always open to new challenges a
 
 <div align="center">
 
-![GitHub Snake](https://raw.githubusercontent.com/rnzrysrio/rnzrysrio/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](https://raw.githubusercontent.com/rnzrysrio/rnzrysrio/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/rnzrysrio/rnzrysrio/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 </div>
 
