@@ -1,7 +1,11 @@
 <div align="center">
   
-# Hello, World! I'm Renz Rey F. Sario  
-### (Developer name: XCD "exceed")  
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=1abc9c&center=true&vCenter=true&width=600&lines=let+greetings+%3D+%22Hello,+World!%22;I'm+Renz+Rey+Sario;)
+
+</div>
+ 
 
 🎓 Computer Science graduate from the **Polytechnic University of the Philippines**  
 💡 Passionate developer aiming to refine skills by building real-world systems  
