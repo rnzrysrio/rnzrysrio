@@ -2,10 +2,11 @@
   
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=1abc9c&center=true&vCenter=true&width=600&lines=let+greetings+%3D+%22Hello,+World!%22;I'm+Renz+Rey+Sario;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=1abc9c&center=true&vCenter=true&width=800&lines=let+greetings+%3D+%22Hello,+World!%22;I'm+Renz+Rey+Sario;)
 
 </div>
- 
+
+### (Developer name: XCD "exceed")
 
 🎓 Computer Science graduate from the **Polytechnic University of the Philippines**  
 💡 Passionate developer aiming to refine skills by building real-world systems  
@@ -18,11 +19,14 @@
 ## 🛠 Tech Stack
 <div align="center">
 
-<!-- Programming Languages -->
-<img src="https://skillicons.dev/icons?i=c,js,php,python" alt="Programming Languages" />
+### 🌐 Languages  
+<img src="https://skillicons.dev/icons?i=c,js,ts,php,python" alt="Languages" />
 
-<!-- Frameworks & Tools -->
-<img src="https://skillicons.dev/icons?i=react,tailwind,mysql" alt="Frameworks and Tools" />
+### ⚡ Frameworks & Libraries  
+<img src="https://skillicons.dev/icons?i=react,tailwind" alt="Frameworks and Libraries" />
+
+### 🗄️ Database  
+<img src="https://skillicons.dev/icons?i=mysql" alt="Database" />
 
 </div>
 
