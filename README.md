@@ -17,7 +17,7 @@
 ---
 
 ## 🛠 Tech Stack
-<div align="left">
+<div align="center">
 
 ### 🌐 Languages  
 <img src="https://skillicons.dev/icons?i=c,js,ts,php,python" alt="Languages" />
