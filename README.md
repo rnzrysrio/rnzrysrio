@@ -23,7 +23,7 @@
 <img src="https://skillicons.dev/icons?i=c,js,ts,php,python" alt="Languages" />
 
 ### ⚡ Frameworks & Libraries  
-<img src="https://skillicons.dev/icons?i=react,tailwind" alt="Frameworks and Libraries" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,jquery" alt="Frameworks and Libraries" />
 
 ### 🗄️ Database  
 <img src="https://skillicons.dev/icons?i=mysql" alt="Database" />
