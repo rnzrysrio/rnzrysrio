@@ -64,7 +64,4 @@ Currently not building anything specific — but always open to new challenges a
 <div align="center">
 
 ![GitHub Snake](https://raw.githubusercontent.com/rnzrysrio/rnzrysrio/main/dist/github-contribution-grid-snake.svg)
-
 </div>
-
-
