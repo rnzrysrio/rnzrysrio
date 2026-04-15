@@ -44,8 +44,9 @@
 
 ---
 
-## 🌱 Currently Exploring
-Currently not building anything specific — but always open to new challenges and opportunities to grow.  
+## 🌱 Currently Developing
+ - **Integrated Walang Gutom System Management - Case Management System**
+ - **WAGI Revive System**
 
 ---
 
