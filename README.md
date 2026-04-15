@@ -45,7 +45,7 @@
 ---
 
 ## 🌱 Currently Developing
- - **Integrated Walang Gutom System Management - Case Management System**
+ - **Integrated Walang Gutom Management System - Case Management System Mobile App**
  - **WAGI Revive System**
 
 ---
