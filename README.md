@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1abc9c&height=180&section=header&text=Full%20Stack%20Developer&fontSize=26&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1abc9c&height=150&section=header&text=Full%20Stack%20Developer&fontSize=30&fontColor=ffffff" />
 
 <br/>
 <br/>
