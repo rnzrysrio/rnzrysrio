@@ -51,10 +51,9 @@ Focused on building scalable systems, optimizing backend services, developing mo
 ### Department of Social Welfare and Development (DSWD)
 **Full Stack Web & Mobile Developer**
 
-Responsible for developing and maintaining enterprise systems focused on:
-- Case Management Systems
-- Program Operations
+Responsible for developing and maintaining systems focused on:
 - Mobile Application Development
+- Web Application Development
 - System Integration
 - API Development
 
