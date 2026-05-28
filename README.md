@@ -22,7 +22,7 @@ Focused on developing scalable systems, optimized applications, RESTful APIs, an
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=rnzrysrio&theme=algolia&no-frame=true&row=1&column=6" />
 
 </div>
 
