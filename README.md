@@ -81,16 +81,34 @@ A personal project featuring:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rnzrysrio&show_icons=true&theme=tokyonight&hide_border=true" />
+<!-- GitHub Stats (Auto Dark/Light Theme) -->
+<img height="170" 
+src="https://github-readme-stats.vercel.app/api?username=rnzrysrio&show_icons=true&theme=default&hide_border=true" 
+media="(prefers-color-scheme: light)" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rnzrysrio&theme=tokyonight&hide_border=true" />
+<img height="170" 
+src="https://github-readme-stats.vercel.app/api?username=rnzrysrio&show_icons=true&theme=tokyonight&hide_border=true" 
+media="(prefers-color-scheme: dark)" />
+
+<br/><br/>
+
+<!-- GitHub Streak (Auto Theme) -->
+<img height="170"
+src="https://github-readme-streak-stats.herokuapp.com/?user=rnzrysrio&theme=default"
+media="(prefers-color-scheme: light)" />
+
+<img height="170"
+src="https://github-readme-streak-stats.herokuapp.com/?user=rnzrysrio&theme=tokyonight"
+media="(prefers-color-scheme: dark)" />
 
 </div>
 
 ---
 
+## Contribution Overview
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1abc9c,100:0f172a&height=100&section=footer" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rnzrysrio&theme=tokyo-night&hide_border=true" />
 
 </div>
