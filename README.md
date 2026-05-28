@@ -83,17 +83,11 @@ A personal project featuring:
 
 <!-- GitHub Stats -->
 <img height="170"
-src="https://github-readme-stats.vercel.app/api?username=rnzrysrio&show_icons=true&theme=tokyonight&hide_border=true" />
+src="[https://github-readme-stats.vercel.app/api?username=rnzrysrio&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats-git-master-rahuldkjain.vercel.app/api?username=rnzrysrio&show_icons=true&theme=tokyonight)" />
 
 <!-- GitHub Streak -->
 <img height="170"
 src="https://github-readme-streak-stats.herokuapp.com/?user=rnzrysrio&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img height="170"
-src="https://github-readme-streak-stats.herokuapp.com/?user=rnzrysrio&theme=tokyonight"
-media="(prefers-color-scheme: dark)" />
 
 </div>
 
