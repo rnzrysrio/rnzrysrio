@@ -100,3 +100,9 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=rnzrysrio&theme=toky
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rnzrysrio&theme=tokyo-night&hide_border=true" />
 
 </div>
+
+<div align="center">
+
+![GitHub Snake](https://raw.githubusercontent.com/rnzrysrio/rnzrysrio/main/dist/github-contribution-grid-snake.svg)
+
+</div>
